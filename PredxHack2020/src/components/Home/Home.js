@@ -40,7 +40,7 @@ const Home = () => {
                                 </Col>
                             </Row>
                             <Row className='rowDiv'>
-                                <Col span={12}><Button type="primary" shape="circle" className='navBut'>
+                                <Col span={12}><Button type="primary" shape="circle" className='navBut' href='auth/auth.js'>
                                     LOGIN/REGISTER
                                 </Button>
                             </Col>
