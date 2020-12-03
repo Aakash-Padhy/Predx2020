@@ -1,0 +1,49 @@
+@import "antd/dist/antd.css";
+.site-layout-content {
+  min-height: 78vh;
+  padding: 24px;
+  background: #fff;
+}
+#components-layout-demo-top .logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 16px 24px 16px 0;
+  background: rgba(255, 255, 255, 0.3);
+}
+.ant-row-rtl #components-layout-demo-top .logo {
+  float: right;
+  margin: 16px 0 16px 24px;
+}
+.covid {
+  text-align: center;
+  padding: 2px 5px;
+}
+.mainLogo {
+  height: 30em;
+  width: auto;
+  background-color: #fff;
+  position: fixed;
+  align-self: center;
+  padding-right: 5em;
+  padding-top: 5em;
+}
+.mainContent {
+  background-color: #fff;
+  text-align: center;
+  text-justify: newspaper;
+  padding-bottom: 3em;
+  padding-top: 1em;
+}
+.navBut {
+  height: 13em;
+  width: 13em;
+  font-weight: bolder;
+}
+.rowDiv {
+  padding-top: 3em;
+  height: 36vh;
+}
+.white {
+  background-color: #fff;
+}
